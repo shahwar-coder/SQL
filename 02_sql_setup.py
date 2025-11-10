@@ -37,7 +37,7 @@
  -> Server : localhost
  -> Authentication : SQL Login
  -> User name : SA
- -> Password : **********
+ -> Password : MyStrongPass123
  -> Click on Remember Password
  -> Click Connect
  -> Click Enable Trust Server Certificate
