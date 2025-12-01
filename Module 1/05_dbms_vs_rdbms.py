@@ -52,3 +52,13 @@ Ans:
 RDBMS is more powerful because it supports relations and rules.
 '''
 # Example: Foreign keys ensure data stays correct.
+
+
+'''
+DBMS                                RDBMS
+-------------------          ----------------------------
+Stores data only             Stores data + relations
+Tables not linked            Tables linked by keys
+No PK-FK enforcement         Strong rules (PK, FK, constraints)
+Used for small systems       Used for large, reliable systems
+'''
